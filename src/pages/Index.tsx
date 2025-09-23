@@ -66,7 +66,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <Icon name="Truck" size={32} />
-              <h1 className="text-2xl font-bold">ГрузАвтоРазбор</h1>
+              <h1 className="text-2xl font-bold">Тракфорс</h1>
             </div>
             <nav className="hidden md:flex space-x-6">
               <button 
@@ -194,7 +194,7 @@ const Index = () => {
                 <CardContent className="p-6 text-center">
                   <Icon name="Mail" size={40} className="mx-auto mb-4 text-accent" />
                   <h4 className="font-bold mb-2">Email</h4>
-                  <p className="text-muted-foreground mb-2">info@gruzrazborka.ru</p>
+                  <p className="text-muted-foreground mb-2">info@trackforce.ru</p>
                   <p className="text-sm text-muted-foreground">Ответим в течение часа</p>
                 </CardContent>
               </Card>
@@ -209,11 +209,11 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
               <Icon name="Truck" size={24} />
-              <span className="font-bold">ГрузАвтоРазбор</span>
+              <span className="font-bold">Тракфорс</span>
             </div>
             <div className="text-center md:text-right">
               <p className="text-sm opacity-80">
-                © 2024 ГрузАвтоРазбор. Все права защищены.
+                © 2024 Тракфорс. Все права защищены.
               </p>
               <p className="text-sm opacity-60 mt-1">
                 Разборка грузовых автомобилей DAF • MAN • VOLVO
